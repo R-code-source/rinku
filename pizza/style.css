@@ -1,0 +1,15 @@
+span
+{
+	font-size: 20px;
+	font-family: sans-serif;
+	padding-top: 5px;
+}
+p{
+	font-size: 20px;
+	font-family: sans-serif;
+	padding-top: 5px;
+}
+.reciepe-section .img-fluid
+{
+	size: 100px;
+}
